@@ -9,8 +9,8 @@ Simply recommends the most popular articles based on the most interactions since
 ### Method 2: User-User Based Collaborative Filtering
 Determines similarity between users and then recommends new articles from similar users.
 
-### Method 3: Matrix Factorization
-Builds out a matrix decomposition based on user-article interactions.
+### Method 3: Singular Value Decomposition (Matrix Factorization)
+Builds out a matrix decomposition based on user-article interactions for recommending articles.
 
 ## Acknowledgements
 This project is part of Udacity's Data Scientist Nanodegree and as such uses some starter code and verbiage provided by Udacity. Additionally, the datasets are provided by IBM.
