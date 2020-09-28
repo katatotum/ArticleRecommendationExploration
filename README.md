@@ -11,3 +11,6 @@ Determines similarity between users (based on which articles they've interacted 
 
 ### Method 3: Matrix Factorization
 Builds out a matrix decomposition based on user-article interactions.
+
+## Acknowledgements
+This project is part of Udacity's Data Scientist Nanodegree and as such uses some starter code and verbiage provided by Udacity. Additionally, the datasets are provided by IBM.
